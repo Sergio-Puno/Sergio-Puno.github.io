@@ -6,4 +6,4 @@ R Markdown Notebooks
 
 
 Python Notebooks
-* [Japanese Restaurant Visitor Analysis - Kaggle](https://github.com/Sergio-Puno/Kaggle_Restaurant_EDA)
+* [Japanese Restaurant Visitor Analysis - Kaggle](https://sergio-puno.github.io/Kaggle_Restaurant_EDA/)
