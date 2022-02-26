@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Personal Projects
 
 ### Data Analysis Projects:
 R Markdown Notebooks
