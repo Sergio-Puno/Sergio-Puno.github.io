@@ -1,3 +1,10 @@
+## Toolset
+* R
+* Python
+* SQL
+* Excel
+* DAX/PowerBI
+
 ## Personal Projects
 
 ### Data Analysis Projects:
